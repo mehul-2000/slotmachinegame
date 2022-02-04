@@ -1,7 +1,8 @@
 .dashboard {
   background-image: url("./background.jpg");
-  height: 100vh;
+  height: 100%;
   position: relative;
+  background-size: cover;
 }
 #root {
   display: flex;

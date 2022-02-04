@@ -43,7 +43,7 @@ function Dashboard() {
                 CLICK TO ROLL
             </button>
 
-            <p>©️ Mehul Dev 2022 - All Copyrights reserved</p>
+            <p style={{ backgroundColor: "white" }}>©️ Mehul Dev 2022 - All Copyrights reserved</p>
         </div>
     );
 }

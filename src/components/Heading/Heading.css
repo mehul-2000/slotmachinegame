@@ -1,0 +1,29 @@
+.heading-main {
+  background-color: #f3ea88;
+  position: relative;
+  width: 100vw;
+  height: 10vh;
+  box-sizing: border-box;
+}
+
+.inner-heading {
+  position: relative;
+  top: 7px;
+  font-size: 30px;
+  font-family: "Supermercado One", cursive;
+}
+.heading-text {
+  background-color: grey;
+  color: white;
+}
+@media (max-width: 502px) {
+  .inner-heading {
+    font-size: 20px;
+  }
+}
+@media (max-width: 340px) {
+  .inner-heading {
+    font-size: 15px;
+    bottom: 0;
+  }
+}

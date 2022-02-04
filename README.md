@@ -1,3 +1,8 @@
+# Created a React App with hooks and Math package Functions of Javascript "The Slot Machine Game App"
+
+![](public/ss.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
